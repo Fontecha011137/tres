@@ -5,14 +5,10 @@
 "scripts": {
 "dev": "next dev",
 "build": "next build && next export && mv out dist",
-
 "start": "next start",
 "lint": "eslint"
 },
 "dependencies": {
-"@capacitor/android": "^7.4.4",
-"@capacitor/cli": "^7.4.4",
-"@capacitor/core": "^7.4.4",
 "next": "16.0.1",
 "react": "19.2.0",
 "react-dom": "19.2.0",
@@ -29,4 +25,3 @@
 "typescript": "^5"
 }
 }
-

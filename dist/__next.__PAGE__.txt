@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/3f8ff96fa9023cf7.js"],""]
-3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"Q-hGSt6KCYA35cfHtwuFl","rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"backgroundColor":"yellow","display":"flex","flexDirection":"column","justifyContent":"center","alignItems":"center","height":"100vh","textAlign":"center"},"children":[["$","h1",null,{"style":{"fontSize":"2.5rem","fontWeight":"bold","marginBottom":"10px"},"children":"Bienvenido"}],["$","p",null,{"style":{"marginBottom":"30px"},"children":"Selecciona un juego en la parte inferior."}],["$","nav",null,{"style":{"display":"flex","gap":"20px","fontSize":"1.2rem","fontWeight":"bold"},"children":[["$","$L2",null,{"href":"/juego1","children":"CULEBRITA"}],["$","$L2",null,{"href":"/juego2","children":"SUDOKU"}],["$","$L2",null,{"href":"/juego3","children":"BUSCA BOMBA"}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3f8ff96fa9023cf7.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
